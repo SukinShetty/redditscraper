@@ -1,0 +1,9 @@
+streamlit==1.31.1
+praw==7.7.1
+nltk==3.8.1
+pandas==2.2.0
+python-dotenv==1.0.1
+textblob==0.17.1
+altair==5.2.0
+matplotlib==3.8.2
+numpy==1.26.3 
